@@ -1,0 +1,21 @@
+.App {
+    padding-top: 150px;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .splash-screen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ffffff;
+    text-align: center;
+    font-size: 100px;
+    padding-top: 150px;
+  }
+  
